@@ -1,0 +1,8 @@
+total 57
+drwxr-xr-x 1 gkwlr 197609     0 Apr 17 11:10 ./
+drwxr-xr-x 1 gkwlr 197609     0 Apr 17 10:47 ../
+drwxr-xr-x 1 gkwlr 197609     0 Apr 17 10:47 .git/
+-rw-r--r-- 1 gkwlr 197609  7360 Apr 17 10:47 .gitignore
+-rw-r--r-- 1 gkwlr 197609 35823 Apr 17 10:47 LICENSE
+-rw-r--r-- 1 gkwlr 197609    36 Apr 17 10:47 README.md
+-rw-r--r-- 1 gkwlr 197609     0 Apr 17 11:10 list.txt
